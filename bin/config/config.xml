@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<driver>jdbc:mysql</driver>
+	<url>localhost:3306/</url> 
+    <database>empresa</database> 
+	<user>root</user>
+	<!-- Put password here -->
+	<password></password>
+	<queryPath>src/bin/text.txt</queryPath>
+</config>
